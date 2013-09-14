@@ -1,0 +1,1 @@
+args.foreach((arg:String) => println(arg)) // making the code as explicit as possible
